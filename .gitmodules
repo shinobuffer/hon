@@ -1,0 +1,6 @@
+[submodule "3rdparty/debug-hpp"]
+	path = 3rdparty/debug-hpp
+	url = https://github.com/archibate/debug-hpp.git
+[submodule "3rdparty/cxxopts"]
+	path = 3rdparty/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
